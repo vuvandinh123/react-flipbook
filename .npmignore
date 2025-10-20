@@ -1,0 +1,30 @@
+# Source files
+src/
+examples/
+tests/
+docs/
+
+# Config files
+.github/
+tsconfig.json
+tsconfig.build.json
+rollup.config.js
+jest.config.js
+.eslintrc.js
+.prettierrc
+
+# Development files
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+.DS_Store
+*.log
+node_modules/
+coverage/
+
+# Git files
+.git
+.gitignore
+.gitattributes
+```
