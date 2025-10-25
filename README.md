@@ -1,6 +1,7 @@
 # React Flipbook - User Guide  
 This library is built and improved from the `page-flip` library, adding React-friendly features such as hooks, auto-flip, keyboard navigation, and easier customization.
 
+**Demo - docs**: [https://vuvandinh123.github.io/react-flipbook/](https://vuvandinh123.github.io/react-flipbook/)
 
 📦 **Installation**  
 ```bash
@@ -525,7 +526,7 @@ interface ReactFlipBookRef {
 🔗 **Useful Links**  
 - Original Library: https://github.com/Nodlik/StPageFlip  
 - NPM Package: `@vuvandinh203/react-flipbook`  
-- Demo & Examples: [Coming soon]  
+- Demo & Examples: [Demo](https://vuvandinh123.github.io/react-flipbook/)
 
 📄 **License**  
 MIT License  

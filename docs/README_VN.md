@@ -1,7 +1,8 @@
 # React Flipbook - Tài liệu hướng dẫn
 
-> **Thư viện này được xây dựng và cải tiến từ thư viện [page-flip](https://github.com/Nodlik/StPageFlip)**, bổ sung thêm các tính năng React-friendly như hooks, auto-flip, keyboard navigation và dễ dàng custom hơn.
+> **Thư viện này được xây dựng và cải tiến từ thư viện [page-flip](https://github.com/Nodlik/StPageFlip)**, bổ sung thêm các tính năng React-friendly như hooks, auto-flip, keyboard navigation và dễ dàng custom.
 
+**Demo - docs**: [https://vuvandinh123.github.io/react-flipbook/](https://vuvandinh123.github.io/react-flipbook/)
 ## 📦 Cài đặt
 
 ```bash
@@ -549,7 +550,7 @@ interface ReactFlipBookRef {
 
 - **PageFlip Library**: [https://github.com/Nodlik/StPageFlip](https://github.com/Nodlik/StPageFlip) - Thư viện gốc
 - **NPM Package**: [@vuvandinh203/react-flipbook](https://www.npmjs.com/package/@vuvandinh203/react-flipbook)
-- **Demo & Examples**: [Coming soon]
+- **Demo & Examples**: [Demo](https://vuvandinh123.github.io/react-flipbook/)
 
 ## 📄 License
 

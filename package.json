@@ -55,7 +55,7 @@
     "bugs": {
         "url": "https://github.com/vuvandinh123/react-flipbook/issues"
     },
-    "homepage": "https://github.com/vuvandinh123/react-flipbook#readme",
+    "homepage": "https://vuvandinh123.github.io/react-flipbook/",
     "peerDependencies": {
         "react": ">=16.8.0",
         "react-dom": ">=16.8.0"
