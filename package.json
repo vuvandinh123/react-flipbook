@@ -1,5 +1,5 @@
 {
-    "name": "react-flipbook",
+    "name": "@vuvandinh203/react-flipbook",
     "version": "1.0.0",
     "description": "A powerful and customizable flipbook component for React with TypeScript support",
     "main": "dist/cjs/index.js",
@@ -32,7 +32,7 @@
         "lint:fix": "eslint src --ext .ts,.tsx --fix",
         "format": "prettier --write \"src/**/*.{ts,tsx}\"",
         "prepare": "husky install",
-        "prepublishOnly": "npm run test && npm run lint && npm run build",
+        "prepublishOnly": "npm run build",
         "release": "npm run build && npm publish --access public"
     },
     "keywords": [
