@@ -1,6 +1,6 @@
 {
     "name": "@vuvandinh203/react-flipbook",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A powerful and customizable flipbook component for React with TypeScript support",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
